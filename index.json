@@ -28,7 +28,7 @@
     "scene_teahouse.jpg",
     "story.json"
    ],
-   "bytes": 1019089,
+   "bytes": 1024378,
    "minApp": 1
   },
   {
@@ -53,11 +53,12 @@
     "Tuya.jpg",
     "cover.jpg",
     "scene_bridal.jpg",
+    "scene_feast.jpg",
     "scene_horses.jpg",
     "scene_river.jpg",
     "story.json"
    ],
-   "bytes": 810688,
+   "bytes": 959641,
    "minApp": 1
   },
   {
@@ -86,7 +87,7 @@
     "scene_tent.jpg",
     "story.json"
    ],
-   "bytes": 800281,
+   "bytes": 804525,
    "minApp": 1
   }
  ]
