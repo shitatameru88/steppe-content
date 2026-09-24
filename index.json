@@ -1,4 +1,93 @@
 {
  "version": 1,
- "cases": []
+ "stories": [
+  {
+   "id": "story_005",
+   "number": 4,
+   "title": {
+    "en": "The Lama's Stolen Horses",
+    "mn": "Ламын хулгайлагдсан морьд"
+   },
+   "tagline": {
+    "en": "Everyone blames the legendary thief. That's the point.",
+    "mn": "Бүгд домогт хулгайчийг буруутгана. Гол нь ч тэр."
+   },
+   "cover": "cover.jpg",
+   "chapters": 3,
+   "deaths": 4,
+   "endings": 6,
+   "files": [
+    "Arya.jpg",
+    "Dogsom.jpg",
+    "Khamar.jpg",
+    "Tsend.jpg",
+    "cover.jpg",
+    "scene_corral.jpg",
+    "scene_monastery.jpg",
+    "scene_river.jpg",
+    "scene_teahouse.jpg",
+    "story.json"
+   ],
+   "bytes": 1019089,
+   "minApp": 1
+  },
+  {
+   "id": "story_006",
+   "number": 5,
+   "title": {
+    "en": "The Locked Bridal Ger",
+    "mn": "Цоожтой хуримын гэр"
+   },
+   "tagline": {
+    "en": "Bolted from the inside. The bride was gone.",
+    "mn": "Дотроос нь түгжсэн. Сүйт бүсгүй алга."
+   },
+   "cover": "cover.jpg",
+   "chapters": 3,
+   "deaths": 4,
+   "endings": 5,
+   "files": [
+    "Bayar.jpg",
+    "Ganzorig.jpg",
+    "Temuulen.jpg",
+    "Tuya.jpg",
+    "cover.jpg",
+    "scene_bridal.jpg",
+    "scene_horses.jpg",
+    "scene_river.jpg",
+    "story.json"
+   ],
+   "bytes": 810688,
+   "minApp": 1
+  },
+  {
+   "id": "story_007",
+   "number": 6,
+   "title": {
+    "en": "The Head That Guards the Gold",
+    "mn": "Алт сахигч толгой"
+   },
+   "tagline": {
+    "en": "Every night a glowing head floats over the camp.",
+    "mn": "Шөнө бүр гэрэлтсэн толгой хуаран дээгүүр хөвнө."
+   },
+   "cover": "cover.jpg",
+   "chapters": 3,
+   "deaths": 4,
+   "endings": 5,
+   "files": [
+    "Baatarkhuu.jpg",
+    "Dorjpalam.jpg",
+    "Munkh.jpg",
+    "Oyuka.jpg",
+    "cover.jpg",
+    "scene_peak.jpg",
+    "scene_shaft.jpg",
+    "scene_tent.jpg",
+    "story.json"
+   ],
+   "bytes": 800281,
+   "minApp": 1
+  }
+ ]
 }
