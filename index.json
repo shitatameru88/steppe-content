@@ -576,6 +576,192 @@
    "bytes": 837862,
    "minApp": 1,
    "releaseAt": "2026-10-01T11:00:00Z"
+  },
+  {
+   "id": "story_023",
+   "number": 23,
+   "title": {
+    "en": "The Salt Lake Mirror",
+    "mn": "Давсан нуурын толь"
+   },
+   "tagline": {
+    "en": "At dawn a woman walks on the white lake. The workers won't go near it.",
+    "mn": "Үүрээр цагаан нуур дээгүүр нэг эмэгтэй алхдаг. Ажилчид ойртохгүй байна."
+   },
+   "cover": "cover.jpg",
+   "chapters": 3,
+   "deaths": 4,
+   "endings": 5,
+   "files": [
+    "CaravaneerJigjid.jpg",
+    "Dulmaa.jpg",
+    "Namsrai.jpg",
+    "OldTsogt.jpg",
+    "cover.jpg",
+    "scene_camp.jpg",
+    "scene_lake.jpg",
+    "scene_night.jpg",
+    "scene_store.jpg",
+    "story.json"
+   ],
+   "bytes": 907676,
+   "minApp": 1,
+   "releaseAt": "2026-10-02T11:00:00Z"
+  },
+  {
+   "id": "story_024",
+   "number": 24,
+   "title": {
+    "en": "The Wrestler's Belt",
+    "mn": "Бөхийн бүс"
+   },
+   "tagline": {
+    "en": "The champion fell before his opponent touched him. A curse in his belt, they say.",
+    "mn": "Аварга өрсөлдөгч нь хүрэхээс өмнө унав. Бүсэнд нь хараал уясан гэнэ."
+   },
+   "cover": "cover.jpg",
+   "chapters": 3,
+   "deaths": 4,
+   "endings": 5,
+   "files": [
+    "BettorKhurts.jpg",
+    "Dorjgotov.jpg",
+    "Gantulga.jpg",
+    "Tsetsegmaa.jpg",
+    "cover.jpg",
+    "scene_field.jpg",
+    "scene_river.jpg",
+    "scene_stalls.jpg",
+    "scene_tent.jpg",
+    "story.json"
+   ],
+   "bytes": 816468,
+   "minApp": 1,
+   "releaseAt": "2026-10-03T11:00:00Z"
+  },
+  {
+   "id": "story_025",
+   "number": 25,
+   "title": {
+    "en": "The Photographer's Ghost",
+    "mn": "Гэрэл зурагчны сүнс"
+   },
+   "tagline": {
+    "en": "Every portrait has one more person in it than stood before the camera.",
+    "mn": "Хөрөг бүрд камерын өмнө зогссоноос нэг хүн илүү байдаг."
+   },
+   "cover": "cover.jpg",
+   "chapters": 3,
+   "deaths": 4,
+   "endings": 5,
+   "files": [
+    "Bayar.jpg",
+    "Dolgor.jpg",
+    "RagManTsend.jpg",
+    "WidowSainaa.jpg",
+    "cover.jpg",
+    "scene_darkroom.jpg",
+    "scene_market.jpg",
+    "scene_street.jpg",
+    "scene_studio.jpg",
+    "story.json"
+   ],
+   "bytes": 1030982,
+   "minApp": 1,
+   "releaseAt": "2026-10-04T11:00:00Z"
+  },
+  {
+   "id": "story_026",
+   "number": 26,
+   "title": {
+    "en": "The Hot Spring Cure",
+    "mn": "Рашааны эмчилгээ"
+   },
+   "tagline": {
+    "en": "The healing spring is making people sick. The spirit is angry, they say.",
+    "mn": "Эмчилгээний рашаан хүмүүсийг өвчлүүлж байна. Савдаг уурласан гэнэ."
+   },
+   "cover": "cover.jpg",
+   "chapters": 3,
+   "deaths": 4,
+   "endings": 5,
+   "files": [
+    "AttendantMagsar.jpg",
+    "DirectorTsedev.jpg",
+    "NurseEnkhjargal.jpg",
+    "PlumberGerel.jpg",
+    "cover.jpg",
+    "scene_path.jpg",
+    "scene_pipes.jpg",
+    "scene_pools.jpg",
+    "scene_ward.jpg",
+    "story.json"
+   ],
+   "bytes": 935610,
+   "minApp": 1,
+   "releaseAt": "2026-10-05T11:00:00Z"
+  },
+  {
+   "id": "story_027",
+   "number": 27,
+   "title": {
+    "en": "Ungern's Gold",
+    "mn": "Унгерний алт"
+   },
+   "tagline": {
+    "en": "The legend says the baron buried his gold here. The valley says: go home.",
+    "mn": "Барон алтаа энд булсан гэж домогт өгүүлдэг. Хөндий: гэртээ харь гэнэ."
+   },
+   "cover": "cover.jpg",
+   "chapters": 3,
+   "deaths": 4,
+   "endings": 5,
+   "files": [
+    "Anna.jpg",
+    "CameramanTuul.jpg",
+    "GrandfatherDorlig.jpg",
+    "Munkhbat.jpg",
+    "cover.jpg",
+    "scene_camp.jpg",
+    "scene_ger.jpg",
+    "scene_shaft.jpg",
+    "scene_valley.jpg",
+    "story.json"
+   ],
+   "bytes": 1032275,
+   "minApp": 1,
+   "releaseAt": "2026-10-06T11:00:00Z"
+  },
+  {
+   "id": "story_028",
+   "number": 28,
+   "title": {
+    "en": "The Cashmere Thief",
+    "mn": "Ноолуурын хулгайч"
+   },
+   "tagline": {
+    "en": "The best cashmere vanishes from a locked warehouse. The night shift blames a ghost.",
+    "mn": "Хамгийн сайн ноолуур цоожтой агуулахаас алга болдог. Шөнийн ээлж сүнсийг буруутгана."
+   },
+   "cover": "cover.jpg",
+   "chapters": 3,
+   "deaths": 4,
+   "endings": 5,
+   "files": [
+    "DriverZorig.jpg",
+    "ManagerChinbat.jpg",
+    "OldWorkerLkham.jpg",
+    "Otgonbayar.jpg",
+    "cover.jpg",
+    "scene_dock.jpg",
+    "scene_dyehouse.jpg",
+    "scene_floor.jpg",
+    "scene_warehouse.jpg",
+    "story.json"
+   ],
+   "bytes": 934915,
+   "minApp": 1,
+   "releaseAt": "2026-10-07T11:00:00Z"
   }
  ]
 }
