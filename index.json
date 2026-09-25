@@ -824,6 +824,68 @@
    "bytes": 1012309,
    "minApp": 1,
    "releaseAt": "2026-10-09T11:00:00Z"
+  },
+  {
+   "id": "story_031",
+   "number": 31,
+   "title": {
+    "en": "The Horse-Head Fiddle",
+    "mn": "Морин хуур"
+   },
+   "tagline": {
+    "en": "It played by itself at night for two hundred years. Then it was gone.",
+    "mn": "Хоёр зуун жил шөнөөр өөрөө эгшиглэдэг байв. Тэгээд алга болов."
+   },
+   "cover": "cover.jpg",
+   "chapters": 3,
+   "deaths": 4,
+   "endings": 5,
+   "files": [
+    "CuratorSolongo.jpg",
+    "MasterLuvsandorj.jpg",
+    "PawnbrokerShagdar.jpg",
+    "Temuulen.jpg",
+    "cover.jpg",
+    "scene_museum.jpg",
+    "scene_pass.jpg",
+    "scene_pawnshop.jpg",
+    "scene_workshop.jpg",
+    "story.json"
+   ],
+   "bytes": 995358,
+   "minApp": 1,
+   "releaseAt": "2026-10-10T11:00:00Z"
+  },
+  {
+   "id": "story_032",
+   "number": 32,
+   "title": {
+    "en": "The Black Lake",
+    "mn": "Хар нуур"
+   },
+   "tagline": {
+    "en": "The nets come back empty. The old men say the lake spirit is punishing greed.",
+    "mn": "Тор хоосон ирдэг. Хөгшчүүл нуурын лус шуналыг шийтгэж байна гэнэ."
+   },
+   "cover": "cover.jpg",
+   "chapters": 3,
+   "deaths": 4,
+   "endings": 5,
+   "files": [
+    "Khurelbaatar.jpg",
+    "OldFishermanBatsuuri.jpg",
+    "SaltSellerGungaa.jpg",
+    "Saran.jpg",
+    "cover.jpg",
+    "scene_jetty.jpg",
+    "scene_lake.jpg",
+    "scene_shed.jpg",
+    "scene_town.jpg",
+    "story.json"
+   ],
+   "bytes": 921008,
+   "minApp": 1,
+   "releaseAt": "2026-10-11T11:00:00Z"
   }
  ]
 }
