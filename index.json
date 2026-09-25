@@ -177,7 +177,7 @@
     "scene_telegraph.jpg",
     "story.json"
    ],
-   "bytes": 894101,
+   "bytes": 894169,
    "minApp": 1
   },
   {
@@ -237,7 +237,7 @@
     "scene_street.jpg",
     "story.json"
    ],
-   "bytes": 1068567,
+   "bytes": 1068637,
    "minApp": 1
   },
   {
@@ -359,6 +359,37 @@
    ],
    "bytes": 857779,
    "minApp": 1
+  },
+  {
+   "id": "story_016",
+   "number": 16,
+   "title": {
+    "en": "The Last Relay Station",
+    "mn": "Сүүлчийн өртөө"
+   },
+   "tagline": {
+    "en": "The tax silver left one station. It never reached the next.",
+    "mn": "Албан татварын мөнгө нэг өртөөнөөс гарсан. Дараагийнхад хүрээгүй."
+   },
+   "cover": "cover.jpg",
+   "chapters": 3,
+   "deaths": 4,
+   "endings": 6,
+   "files": [
+    "AuntKhanda.jpg",
+    "ClerkWen.jpg",
+    "Dashdorj.jpg",
+    "Sonom.jpg",
+    "cover.jpg",
+    "scene_corral.jpg",
+    "scene_river.jpg",
+    "scene_road.jpg",
+    "scene_station.jpg",
+    "story.json"
+   ],
+   "bytes": 870743,
+   "minApp": 1,
+   "releaseAt": "2026-09-25T11:00:00Z"
   }
  ]
 }
