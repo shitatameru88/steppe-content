@@ -1165,6 +1165,161 @@
    "bytes": 967215,
    "minApp": 1,
    "releaseAt": "2026-10-20T11:00:00Z"
+  },
+  {
+   "id": "story_042",
+   "number": 42,
+   "title": {
+    "en": "The Sand Dune Singers",
+    "mn": "Дуулдаг манхан"
+   },
+   "tagline": {
+    "en": "The dunes swallow what the greedy bring, the camel herders say. They swallowed a very expensive camera.",
+    "mn": "Манхан шуналтны авчирсныг залгидаг гэж тэмээчид ярьдаг. Маш үнэтэй камерыг залгижээ."
+   },
+   "cover": "cover.jpg",
+   "chapters": 3,
+   "deaths": 4,
+   "endings": 5,
+   "files": [
+    "CamelHerderDorj.jpg",
+    "Enkhjin.jpg",
+    "PolicewomanSolongo.jpg",
+    "TouristMarco.jpg",
+    "cover.jpg",
+    "scene_camp.jpg",
+    "scene_dunes.jpg",
+    "scene_night.jpg",
+    "scene_oasis.jpg",
+    "story.json"
+   ],
+   "bytes": 852177,
+   "minApp": 1,
+   "releaseAt": "2026-10-21T11:00:00Z"
+  },
+  {
+   "id": "story_043",
+   "number": 43,
+   "title": {
+    "en": "The Last Caravan to Kalgan",
+    "mn": "Халган руу явсан сүүлчийн жин"
+   },
+   "tagline": {
+    "en": "Every night a camel-load of tea vanishes. In the morning, giant footprints lead into the desert.",
+    "mn": "Шөнө бүр нэг тэмээний ачаа цай алга болдог. Өглөө нь аварга мөр цөл рүү хөтөлнө."
+   },
+   "cover": "cover.jpg",
+   "chapters": 3,
+   "deaths": 4,
+   "endings": 5,
+   "files": [
+    "DriverSukh.jpg",
+    "InnkeeperPagmadulam.jpg",
+    "MasterZhao.jpg",
+    "ScoutGalsan.jpg",
+    "cover.jpg",
+    "scene_camp.jpg",
+    "scene_storm.jpg",
+    "scene_tracks.jpg",
+    "scene_well.jpg",
+    "story.json"
+   ],
+   "bytes": 831851,
+   "minApp": 1,
+   "releaseAt": "2026-10-22T11:00:00Z"
+  },
+  {
+   "id": "story_044",
+   "number": 44,
+   "title": {
+    "en": "The Doctor's Oath",
+    "mn": "Эмчийн тангараг"
+   },
+   "tagline": {
+    "en": "The medicine keeps running out. The night nurse hears footsteps from the old morgue.",
+    "mn": "Эм байнга дуусна. Шөнийн сувилагч хуучин морг талаас алхаа сонсдог."
+   },
+   "cover": "cover.jpg",
+   "chapters": 3,
+   "deaths": 4,
+   "endings": 5,
+   "files": [
+    "Baljir.jpg",
+    "NightNurseOyuunaa.jpg",
+    "OldPatientDorjpalam.jpg",
+    "VendorSarangerel.jpg",
+    "cover.jpg",
+    "scene_market.jpg",
+    "scene_morgue.jpg",
+    "scene_pharmacy.jpg",
+    "scene_ward.jpg",
+    "story.json"
+   ],
+   "bytes": 1052744,
+   "minApp": 1,
+   "releaseAt": "2026-10-23T11:00:00Z"
+  },
+  {
+   "id": "story_045",
+   "number": 45,
+   "title": {
+    "en": "The Ice Festival",
+    "mn": "Мөсний баяр"
+   },
+   "tagline": {
+    "en": "The cash box vanished from a locked tent on the ice. The herders say the lake is angry.",
+    "mn": "Мөсөн дээрх цоожтой майхнаас мөнгөний хайрцаг алга болов. Малчид нуур уурласан гэнэ."
+   },
+   "cover": "cover.jpg",
+   "chapters": 3,
+   "deaths": 4,
+   "endings": 5,
+   "files": [
+    "CarverTuvshinjargal.jpg",
+    "Delgermaa.jpg",
+    "HerderGalbadrakh.jpg",
+    "TouristYuki.jpg",
+    "cover.jpg",
+    "scene_hole.jpg",
+    "scene_lake.jpg",
+    "scene_sculptures.jpg",
+    "scene_tent.jpg",
+    "story.json"
+   ],
+   "bytes": 932508,
+   "minApp": 1,
+   "releaseAt": "2026-10-24T11:00:00Z"
+  },
+  {
+   "id": "story_046",
+   "number": 46,
+   "title": {
+    "en": "The Shaman's Drum",
+    "mn": "Бөөгийн хэнгэрэг"
+   },
+   "tagline": {
+    "en": "An old shaman's drum is stolen, and she falls ill. The village says her spirits have left her.",
+    "mn": "Хөгшин бөөгийн хэнгэрэг хулгайлагдаж, тэр өвдөв. Сахиусууд нь орхисон гэж тосгоныхон ярина."
+   },
+   "cover": "cover.jpg",
+   "chapters": 3,
+   "deaths": 4,
+   "endings": 5,
+   "files": [
+    "DriverTomorbaatar.jpg",
+    "GranddaughterUyanga.jpg",
+    "GrandmotherKhorol.jpg",
+    "Jargalsaikhan.jpg",
+    "cover.jpg",
+    "scene_car.jpg",
+    "scene_ger.jpg",
+    "scene_mountain.jpg",
+    "scene_river.jpg",
+    "story.json"
+   ],
+   "bytes": 904277,
+   "minApp": 1,
+   "releaseAt": "2026-10-25T11:00:00Z"
   }
  ]
 }
