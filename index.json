@@ -762,6 +762,68 @@
    "bytes": 934915,
    "minApp": 1,
    "releaseAt": "2026-10-07T11:00:00Z"
+  },
+  {
+   "id": "story_029",
+   "number": 29,
+   "title": {
+    "en": "The Stone Men",
+    "mn": "Хүн чулуу"
+   },
+   "tagline": {
+    "en": "Three thousand years the stone stood. One night it fell, and the bronze was gone.",
+    "mn": "Гурван мянган жил чулуу зогссон. Нэг шөнө унаж, хүрэл алга болов."
+   },
+   "cover": "cover.jpg",
+   "chapters": 3,
+   "deaths": 4,
+   "endings": 5,
+   "files": [
+    "DrBatsaikhan.jpg",
+    "HerderEnkhtaivan.jpg",
+    "Kim.jpg",
+    "ShamanUlziikhutag.jpg",
+    "cover.jpg",
+    "scene_ridge.jpg",
+    "scene_stones.jpg",
+    "scene_tents.jpg",
+    "scene_trench.jpg",
+    "story.json"
+   ],
+   "bytes": 949848,
+   "minApp": 1,
+   "releaseAt": "2026-10-08T11:00:00Z"
+  },
+  {
+   "id": "story_030",
+   "number": 30,
+   "title": {
+    "en": "The Film That Wasn't Finished",
+    "mn": "Дуусаагүй кино"
+   },
+   "tagline": {
+    "en": "A week before the premiere, the reels vanished from a locked vault. The studio's first director never left, they say.",
+    "mn": "Нээлтээс долоо хоногийн өмнө хальснууд цоожтой агуулахаас алга болов. Студийн анхны найруулагч хэзээ ч явж байгаагүй гэнэ."
+   },
+   "cover": "cover.jpg",
+   "chapters": 3,
+   "deaths": 4,
+   "endings": 5,
+   "files": [
+    "ActressBolormaa.jpg",
+    "DirectorNyam.jpg",
+    "Jambal.jpg",
+    "ProjectionistDash.jpg",
+    "cover.jpg",
+    "scene_booth.jpg",
+    "scene_props.jpg",
+    "scene_stage.jpg",
+    "scene_vault.jpg",
+    "story.json"
+   ],
+   "bytes": 1012309,
+   "minApp": 1,
+   "releaseAt": "2026-10-09T11:00:00Z"
   }
  ]
 }
