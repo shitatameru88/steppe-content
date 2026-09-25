@@ -483,6 +483,68 @@
    "bytes": 979761,
    "minApp": 1,
    "releaseAt": "2026-09-28T11:00:00Z"
+  },
+  {
+   "id": "story_020",
+   "number": 20,
+   "title": {
+    "en": "Train 34",
+    "mn": "34-р галт тэрэг"
+   },
+   "tagline": {
+    "en": "A locked compartment. A missing briefcase. And the grey passenger.",
+    "mn": "Цоожтой купе. Алга болсон цүнх. Бас саарал зорчигч."
+   },
+   "cover": "cover.jpg",
+   "chapters": 3,
+   "deaths": 4,
+   "endings": 5,
+   "files": [
+    "ChiefConductorLuvsan.jpg",
+    "ComradePetrov.jpg",
+    "Enkhbayar.jpg",
+    "Tserendulam.jpg",
+    "cover.jpg",
+    "scene_compartment.jpg",
+    "scene_corridor.jpg",
+    "scene_dining.jpg",
+    "scene_station.jpg",
+    "story.json"
+   ],
+   "bytes": 922715,
+   "minApp": 1,
+   "releaseAt": "2026-09-29T11:00:00Z"
+  },
+  {
+   "id": "story_021",
+   "number": 21,
+   "title": {
+    "en": "The Reindeer Herders' Guest",
+    "mn": "Цаатны зочин"
+   },
+   "tagline": {
+    "en": "A foreigner walked into the taiga and never walked out. The forest took him, they say.",
+    "mn": "Гадаадын хүн тайга руу орсон ч гарч ирээгүй. Ой түүнийг авсан гэнэ."
+   },
+   "cover": "cover.jpg",
+   "chapters": 3,
+   "deaths": 4,
+   "endings": 5,
+   "files": [
+    "Bayasgalan.jpg",
+    "GrandmotherTsend.jpg",
+    "MrKeller.jpg",
+    "Munkh-Erdene.jpg",
+    "cover.jpg",
+    "scene_cabin.jpg",
+    "scene_forest.jpg",
+    "scene_lake.jpg",
+    "scene_urts.jpg",
+    "story.json"
+   ],
+   "bytes": 1036813,
+   "minApp": 1,
+   "releaseAt": "2026-09-30T11:00:00Z"
   }
  ]
 }
