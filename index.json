@@ -28,7 +28,7 @@
     "scene_teahouse.jpg",
     "story.json"
    ],
-   "bytes": 1024378,
+   "bytes": 1024395,
    "minApp": 1
   },
   {
@@ -58,7 +58,7 @@
     "scene_river.jpg",
     "story.json"
    ],
-   "bytes": 959641,
+   "bytes": 959657,
    "minApp": 1
   },
   {
@@ -87,7 +87,7 @@
     "scene_tent.jpg",
     "story.json"
    ],
-   "bytes": 804525,
+   "bytes": 804541,
    "minApp": 1
   },
   {
@@ -117,7 +117,7 @@
     "scene_stable.jpg",
     "story.json"
    ],
-   "bytes": 821947,
+   "bytes": 821964,
    "minApp": 1
   },
   {
@@ -147,7 +147,7 @@
     "scene_street.jpg",
     "story.json"
    ],
-   "bytes": 978404,
+   "bytes": 978421,
    "minApp": 1
   },
   {
@@ -177,7 +177,7 @@
     "scene_telegraph.jpg",
     "story.json"
    ],
-   "bytes": 894084,
+   "bytes": 894101,
    "minApp": 1
   },
   {
@@ -207,7 +207,7 @@
     "scene_well.jpg",
     "story.json"
    ],
-   "bytes": 1115816,
+   "bytes": 1115832,
    "minApp": 1
   },
   {
@@ -237,7 +237,7 @@
     "scene_street.jpg",
     "story.json"
    ],
-   "bytes": 1068552,
+   "bytes": 1068567,
    "minApp": 1
   },
   {
@@ -267,7 +267,7 @@
     "scene_well.jpg",
     "story.json"
    ],
-   "bytes": 749201,
+   "bytes": 749218,
    "minApp": 1
   },
   {
@@ -297,7 +297,7 @@
     "scene_steppe.jpg",
     "story.json"
    ],
-   "bytes": 888832,
+   "bytes": 888849,
    "minApp": 1
   },
   {
@@ -327,7 +327,7 @@
     "scene_widow.jpg",
     "story.json"
    ],
-   "bytes": 772314,
+   "bytes": 772331,
    "minApp": 1
   },
   {
@@ -357,7 +357,7 @@
     "scene_stairwell.jpg",
     "story.json"
    ],
-   "bytes": 857764,
+   "bytes": 857779,
    "minApp": 1
   }
  ]
