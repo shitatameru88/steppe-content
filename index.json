@@ -886,6 +886,285 @@
    "bytes": 921008,
    "minApp": 1,
    "releaseAt": "2026-10-11T11:00:00Z"
+  },
+  {
+   "id": "story_033",
+   "number": 33,
+   "title": {
+    "en": "The Wolf Pelt",
+    "mn": "Чонын арьс"
+   },
+   "tagline": {
+    "en": "A white wolf is killing the sheep. The hunters say it's a spirit. The tracks say something else.",
+    "mn": "Цагаан чоно хонь барьж байна. Анчид сүнс гэнэ. Мөр өөр юм хэлж байна."
+   },
+   "cover": "cover.jpg",
+   "chapters": 3,
+   "deaths": 4,
+   "endings": 5,
+   "files": [
+    "Ganbold.jpg",
+    "HunterTumur.jpg",
+    "TaxidermistNomin.jpg",
+    "WidowDolgorsuren.jpg",
+    "cover.jpg",
+    "scene_den.jpg",
+    "scene_pen.jpg",
+    "scene_shop.jpg",
+    "scene_steppe.jpg",
+    "story.json"
+   ],
+   "bytes": 985434,
+   "minApp": 1,
+   "releaseAt": "2026-10-12T11:00:00Z"
+  },
+  {
+   "id": "story_034",
+   "number": 34,
+   "title": {
+    "en": "The Opera Singer's Mask",
+    "mn": "Дуурийн маск"
+   },
+   "tagline": {
+    "en": "Sandbags keep falling where the star stands. The crew says the theatre ghost wants her gone.",
+    "mn": "Одын зогсдог газарт элсэн уут унасаар. Ажилчид театрын сүнс түүнийг явуулахыг хүсэж байна гэнэ."
+   },
+   "cover": "cover.jpg",
+   "chapters": 3,
+   "deaths": 4,
+   "endings": 5,
+   "files": [
+    "DirectorBat-Ochir.jpg",
+    "DoormanPurev.jpg",
+    "Nandintsetseg.jpg",
+    "PrimaDonnaTsetsegmaa.jpg",
+    "cover.jpg",
+    "scene_dressing.jpg",
+    "scene_lobby.jpg",
+    "scene_loft.jpg",
+    "scene_stage.jpg",
+    "story.json"
+   ],
+   "bytes": 981765,
+   "minApp": 1,
+   "releaseAt": "2026-10-13T11:00:00Z"
+  },
+  {
+   "id": "story_035",
+   "number": 35,
+   "title": {
+    "en": "The Meteorite",
+    "mn": "Солир"
+   },
+   "tagline": {
+    "en": "A star fell on the Gobi. By morning it was gone. The sky took it back, the herders say.",
+    "mn": "Говьд од унав. Өглөө гэхэд алга болжээ. Тэнгэр буцааж авсан гэж малчид ярина."
+   },
+   "cover": "cover.jpg",
+   "chapters": 3,
+   "deaths": 4,
+   "endings": 5,
+   "files": [
+    "Chimeddorj.jpg",
+    "DrSokolov.jpg",
+    "HerderOlzii.jpg",
+    "TelegraphistUndraa.jpg",
+    "cover.jpg",
+    "scene_camp.jpg",
+    "scene_crater.jpg",
+    "scene_office.jpg",
+    "scene_telegraph.jpg",
+    "story.json"
+   ],
+   "bytes": 829035,
+   "minApp": 1,
+   "releaseAt": "2026-10-14T11:00:00Z"
+  },
+  {
+   "id": "story_036",
+   "number": 36,
+   "title": {
+    "en": "The Pilgrim's Road",
+    "mn": "Мөргөлчийн зам"
+   },
+   "tagline": {
+    "en": "A demon struck the old pilgrim in the night and took the monastery's silver. Or so the holy guide says.",
+    "mn": "Шөнө чөтгөр хөгшин мөргөлчийг цохиж, хийдийн мөнгийг авчээ. Ариун хөтөч ингэж ярина."
+   },
+   "cover": "cover.jpg",
+   "chapters": 3,
+   "deaths": 4,
+   "endings": 5,
+   "files": [
+    "AbbotTseveen.jpg",
+    "Luvsan-Yondon.jpg",
+    "PilgrimDambaa.jpg",
+    "Tsermaa.jpg",
+    "cover.jpg",
+    "scene_caravan.jpg",
+    "scene_ford.jpg",
+    "scene_temple.jpg",
+    "scene_walls.jpg",
+    "story.json"
+   ],
+   "bytes": 856624,
+   "minApp": 1,
+   "releaseAt": "2026-10-15T11:00:00Z"
+  },
+  {
+   "id": "story_037",
+   "number": 37,
+   "title": {
+    "en": "The Mine Collapse",
+    "mn": "Уурхайн нуралт"
+   },
+   "tagline": {
+    "en": "The tunnel came down on two men. The brigade says the mine's spirit was angry.",
+    "mn": "Хонгил хоёр хүний дээр нурав. Бригад уурхайн савдаг уурласан гэнэ."
+   },
+   "cover": "cover.jpg",
+   "chapters": 3,
+   "deaths": 4,
+   "endings": 5,
+   "files": [
+    "BuyerShirnen.jpg",
+    "CanaryKeeperDulam.jpg",
+    "Enkhtor.jpg",
+    "MinerBat-Erdene.jpg",
+    "cover.jpg",
+    "scene_collapse.jpg",
+    "scene_gallery.jpg",
+    "scene_office.jpg",
+    "scene_yard.jpg",
+    "story.json"
+   ],
+   "bytes": 932149,
+   "minApp": 1,
+   "releaseAt": "2026-10-16T11:00:00Z"
+  },
+  {
+   "id": "story_038",
+   "number": 38,
+   "title": {
+    "en": "The Bride's Dowry",
+    "mn": "Инжийн хөрөнгө"
+   },
+   "tagline": {
+    "en": "The silver vanished from the wedding ger. The elders say the marriage is cursed.",
+    "mn": "Мөнгө хуримын гэрээс алга болов. Ахмадууд гэрлэлт хараалтай гэнэ."
+   },
+   "cover": "cover.jpg",
+   "chapters": 3,
+   "deaths": 4,
+   "endings": 5,
+   "files": [
+    "BrideAltangerel.jpg",
+    "ElderDagva.jpg",
+    "MerchantLiu.jpg",
+    "Tsogzolmaa.jpg",
+    "cover.jpg",
+    "scene_feast.jpg",
+    "scene_ger.jpg",
+    "scene_horses.jpg",
+    "scene_well.jpg",
+    "story.json"
+   ],
+   "bytes": 1045884,
+   "minApp": 1,
+   "releaseAt": "2026-10-17T11:00:00Z"
+  },
+  {
+   "id": "story_039",
+   "number": 39,
+   "title": {
+    "en": "The Airplane That Landed Twice",
+    "mn": "Хоёр удаа газардсан онгоц"
+   },
+   "tagline": {
+    "en": "A voice on the radio sent the mail plane to an empty field. Nobody was on the radio.",
+    "mn": "Радиогоор нэг дуу шуудангийн онгоцыг хоосон тал руу илгээв. Радиод хэн ч байгаагүй."
+   },
+   "cover": "cover.jpg",
+   "chapters": 3,
+   "deaths": 4,
+   "endings": 5,
+   "files": [
+    "BrotherNyamjav.jpg",
+    "Nyamdorj.jpg",
+    "PilotGansukh.jpg",
+    "PostmistressEnkhtuya.jpg",
+    "cover.jpg",
+    "scene_airfield.jpg",
+    "scene_field.jpg",
+    "scene_hangar.jpg",
+    "scene_tower.jpg",
+    "story.json"
+   ],
+   "bytes": 909155,
+   "minApp": 1,
+   "releaseAt": "2026-10-18T11:00:00Z"
+  },
+  {
+   "id": "story_040",
+   "number": 40,
+   "title": {
+    "en": "The Spirit Tree",
+    "mn": "Бурхан мод"
+   },
+   "tagline": {
+    "en": "The sacred larch is dying. The herders say a curse. The roots say poison.",
+    "mn": "Ариун шинэс хатаж байна. Малчид хараал гэнэ. Үндэс нь хор гэж хэлнэ."
+   },
+   "cover": "cover.jpg",
+   "chapters": 3,
+   "deaths": 4,
+   "endings": 5,
+   "files": [
+    "Batmonkh.jpg",
+    "GrandmotherOyuun.jpg",
+    "RangerTogoldor.jpg",
+    "WorkerMunkhbayar.jpg",
+    "cover.jpg",
+    "scene_camp.jpg",
+    "scene_cliff.jpg",
+    "scene_store.jpg",
+    "scene_tree.jpg",
+    "story.json"
+   ],
+   "bytes": 888066,
+   "minApp": 1,
+   "releaseAt": "2026-10-19T11:00:00Z"
+  },
+  {
+   "id": "story_041",
+   "number": 41,
+   "title": {
+    "en": "The Deaf Composer",
+    "mn": "Дүлий хөгжмийн зохиолч"
+   },
+   "tagline": {
+    "en": "His last symphony was performed tonight, under someone else's name.",
+    "mn": "Түүний сүүлчийн симфони өнөө орой өөр хүний нэрээр тоглогдов."
+   },
+   "cover": "cover.jpg",
+   "chapters": 3,
+   "deaths": 4,
+   "endings": 5,
+   "files": [
+    "CriticOyunbileg.jpg",
+    "Gonchigsuren.jpg",
+    "LandladyTsetseg.jpg",
+    "MaestroJugder.jpg",
+    "cover.jpg",
+    "scene_apartment.jpg",
+    "scene_archive.jpg",
+    "scene_hall.jpg",
+    "scene_street.jpg",
+    "story.json"
+   ],
+   "bytes": 967215,
+   "minApp": 1,
+   "releaseAt": "2026-10-20T11:00:00Z"
   }
  ]
 }
