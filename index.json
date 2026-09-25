@@ -89,6 +89,276 @@
    ],
    "bytes": 804525,
    "minApp": 1
+  },
+  {
+   "id": "story_008",
+   "number": 7,
+   "title": {
+    "en": "The Silent Witness",
+    "mn": "Дуугүй гэрч"
+   },
+   "tagline": {
+    "en": "The only witness can't speak. But he can draw.",
+    "mn": "Цорын ганц гэрч ярьж чаддаггүй. Харин зурж чадна."
+   },
+   "cover": "cover.jpg",
+   "chapters": 3,
+   "deaths": 4,
+   "endings": 5,
+   "files": [
+    "Jargal.jpg",
+    "Norov.jpg",
+    "Ochir.jpg",
+    "Saraa.jpg",
+    "cover.jpg",
+    "scene_clinic.jpg",
+    "scene_ger.jpg",
+    "scene_pasture.jpg",
+    "scene_stable.jpg",
+    "story.json"
+   ],
+   "bytes": 821947,
+   "minApp": 1
+  },
+  {
+   "id": "story_009",
+   "number": 8,
+   "title": {
+    "en": "The Woman in White",
+    "mn": "Цагаан дээлтэй эмэгтэй"
+   },
+   "tagline": {
+    "en": "Old Li died of fright. Or did he?",
+    "mn": "Хөгшин Ли айснаасаа болж нас барсан. Үнэхээр тийм үү?"
+   },
+   "cover": "cover.jpg",
+   "chapters": 3,
+   "deaths": 4,
+   "endings": 6,
+   "files": [
+    "Chimed.jpg",
+    "Dulam.jpg",
+    "Purev.jpg",
+    "Wang.jpg",
+    "cover.jpg",
+    "scene_cellar.jpg",
+    "scene_dining.jpg",
+    "scene_kitchen.jpg",
+    "scene_street.jpg",
+    "story.json"
+   ],
+   "bytes": 978404,
+   "minApp": 1
+  },
+  {
+   "id": "story_010",
+   "number": 9,
+   "title": {
+    "en": "The Thief Who Knew Everything",
+    "mn": "Бүгдийг мэддэг хулгайч"
+   },
+   "tagline": {
+    "en": "Someone always warns him. The herders say it's a spirit.",
+    "mn": "Хэн нэгэн түүнд үргэлж сануулдаг. Малчид үүнийг сүнс гэдэг."
+   },
+   "cover": "cover.jpg",
+   "chapters": 3,
+   "deaths": 4,
+   "endings": 6,
+   "files": [
+    "Batjargal.jpg",
+    "Enkh.jpg",
+    "Naraa.jpg",
+    "Tomor.jpg",
+    "cover.jpg",
+    "scene_border.jpg",
+    "scene_ger.jpg",
+    "scene_station.jpg",
+    "scene_telegraph.jpg",
+    "story.json"
+   ],
+   "bytes": 894084,
+   "minApp": 1
+  },
+  {
+   "id": "story_001",
+   "number": 10,
+   "title": {
+    "en": "The Haunted House of Khyalganat",
+    "mn": "Хялганатын сүнстэй байшин"
+   },
+   "tagline": {
+    "en": "Candles in an empty window. Voices in a dead man's language.",
+    "mn": "Хоосон цонхонд лаа. Нас барсан хүний хэлээр ярих дуу."
+   },
+   "cover": "cover.jpg",
+   "chapters": 3,
+   "deaths": 4,
+   "endings": 6,
+   "files": [
+    "Batsukh.jpg",
+    "Damdin.jpg",
+    "Ganbat.jpg",
+    "Luvsan.jpg",
+    "cover.jpg",
+    "scene_hillside.jpg",
+    "scene_house.jpg",
+    "scene_store.jpg",
+    "scene_well.jpg",
+    "story.json"
+   ],
+   "bytes": 1115816,
+   "minApp": 1
+  },
+  {
+   "id": "story_011",
+   "number": 11,
+   "title": {
+    "en": "The Night Watchman",
+    "mn": "Шөнийн манаач"
+   },
+   "tagline": {
+    "en": "The shop is locked. Every morning, something is gone.",
+    "mn": "Дэлгүүр түгжээтэй. Өглөө бүр ямар нэг юм алга болсон байдаг."
+   },
+   "cover": "cover.jpg",
+   "chapters": 3,
+   "deaths": 4,
+   "endings": 6,
+   "files": [
+    "Ganaa.jpg",
+    "Luvsan.jpg",
+    "Sukhee.jpg",
+    "Tsolmon.jpg",
+    "cover.jpg",
+    "scene_basement.jpg",
+    "scene_corridor.jpg",
+    "scene_shop.jpg",
+    "scene_street.jpg",
+    "story.json"
+   ],
+   "bytes": 1068552,
+   "minApp": 1
+  },
+  {
+   "id": "story_012",
+   "number": 12,
+   "title": {
+    "en": "The Racehorse's Curse",
+    "mn": "Хурдан морины хараал"
+   },
+   "tagline": {
+    "en": "Every horse that races against the golden one falls sick.",
+    "mn": "Алтан морьтой уралдсан морь бүр өвддөг."
+   },
+   "cover": "cover.jpg",
+   "chapters": 3,
+   "deaths": 4,
+   "endings": 6,
+   "files": [
+    "Badraa.jpg",
+    "Jamba.jpg",
+    "Khorloo.jpg",
+    "Ulaantsetseg.jpg",
+    "cover.jpg",
+    "scene_camp.jpg",
+    "scene_naadam.jpg",
+    "scene_paddock.jpg",
+    "scene_well.jpg",
+    "story.json"
+   ],
+   "bytes": 749201,
+   "minApp": 1
+  },
+  {
+   "id": "story_013",
+   "number": 13,
+   "title": {
+    "en": "The Shaman's Arrow",
+    "mn": "Бөөгийн сум"
+   },
+   "tagline": {
+    "en": "Where the arrow falls, the thief lives.",
+    "mn": "Сум хаана унана, хулгайч тэнд амьдардаг."
+   },
+   "cover": "cover.jpg",
+   "chapters": 3,
+   "deaths": 4,
+   "endings": 6,
+   "files": [
+    "Derem.jpg",
+    "Sosor.jpg",
+    "Tomorbaatar.jpg",
+    "Yansanjav.jpg",
+    "cover.jpg",
+    "scene_ger.jpg",
+    "scene_pen.jpg",
+    "scene_ritual.jpg",
+    "scene_steppe.jpg",
+    "story.json"
+   ],
+   "bytes": 888832,
+   "minApp": 1
+  },
+  {
+   "id": "story_014",
+   "number": 14,
+   "title": {
+    "en": "The Double",
+    "mn": "Хуурмаг ихэр"
+   },
+   "tagline": {
+    "en": "He was in two places at once. Forty people saw him.",
+    "mn": "Тэр нэг дор хоёр газар байсан. Дөчин хүн харсан."
+   },
+   "cover": "cover.jpg",
+   "chapters": 3,
+   "deaths": 4,
+   "endings": 6,
+   "files": [
+    "Badam.jpg",
+    "Dagva.jpg",
+    "Enkhnasan.jpg",
+    "Gempel.jpg",
+    "cover.jpg",
+    "scene_hall.jpg",
+    "scene_river.jpg",
+    "scene_store.jpg",
+    "scene_widow.jpg",
+    "story.json"
+   ],
+   "bytes": 772314,
+   "minApp": 1
+  },
+  {
+   "id": "story_015",
+   "number": 15,
+   "title": {
+    "en": "The Apartment",
+    "mn": "Орон сууц"
+   },
+   "tagline": {
+    "en": "Apartment 42 was a bargain. Nobody stays longer than a month.",
+    "mn": "42 тоот хямдхан байсан. Хэн ч сараас илүү тэсдэггүй."
+   },
+   "cover": "cover.jpg",
+   "chapters": 3,
+   "deaths": 4,
+   "endings": 6,
+   "files": [
+    "Dorjsuren.jpg",
+    "Gerelmaa.jpg",
+    "Khurel.jpg",
+    "Oyunaa.jpg",
+    "cover.jpg",
+    "scene_apartment.jpg",
+    "scene_market.jpg",
+    "scene_office.jpg",
+    "scene_stairwell.jpg",
+    "story.json"
+   ],
+   "bytes": 857764,
+   "minApp": 1
   }
  ]
 }
