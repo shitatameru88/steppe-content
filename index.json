@@ -545,6 +545,37 @@
    "bytes": 1036813,
    "minApp": 1,
    "releaseAt": "2026-09-30T11:00:00Z"
+  },
+  {
+   "id": "story_022",
+   "number": 22,
+   "title": {
+    "en": "The Throat Singer's Voice",
+    "mn": "Хөөмийчийн хоолой"
+   },
+   "tagline": {
+    "en": "The greatest voice in the west went silent overnight. A curse, he says.",
+    "mn": "Баруун хязгаарын хамгийн гайхалтай хоолой нэг шөнөд чимээгүй болов. Хараал гэнэ."
+   },
+   "cover": "cover.jpg",
+   "chapters": 3,
+   "deaths": 4,
+   "endings": 5,
+   "files": [
+    "Chuluun.jpg",
+    "Demberel.jpg",
+    "NephewTuguldur.jpg",
+    "Oyuntsetseg.jpg",
+    "cover.jpg",
+    "scene_dressing.jpg",
+    "scene_radio.jpg",
+    "scene_rock.jpg",
+    "scene_theatre.jpg",
+    "story.json"
+   ],
+   "bytes": 837862,
+   "minApp": 1,
+   "releaseAt": "2026-10-01T11:00:00Z"
   }
  ]
 }
