@@ -2157,6 +2157,130 @@
    "bytes": 902491,
    "minApp": 1,
    "releaseAt": "2026-11-21T11:00:00Z"
+  },
+  {
+   "id": "story_074",
+   "number": 74,
+   "title": {
+    "en": "The Bridge at Zosong",
+    "mn": "Зосонгийн гүүр"
+   },
+   "tagline": {
+    "en": "Trucks break down at the old bridge, night after night. The drivers hear a woman's voice in the dark.",
+    "mn": "Хуучин гүүрэн дээр шөнө шөнөгүй ачааны машин эвдэрнэ. Жолооч нар харанхуйд эмэгтэй хүний дуу сонсоно."
+   },
+   "cover": "cover.jpg",
+   "chapters": 3,
+   "deaths": 4,
+   "endings": 5,
+   "files": [
+    "DriverTsend.jpg",
+    "MechanicBold.jpg",
+    "OldWomanHandmaa.jpg",
+    "SergeantDash.jpg",
+    "cover.jpg",
+    "scene_bridge.jpg",
+    "scene_river.jpg",
+    "scene_road.jpg",
+    "scene_workshop.jpg",
+    "story.json"
+   ],
+   "bytes": 785442,
+   "minApp": 1,
+   "releaseAt": "2026-11-22T11:00:00Z"
+  },
+  {
+   "id": "story_075",
+   "number": 75,
+   "title": {
+    "en": "The Circus Strongman",
+    "mn": "Циркийн хүчтэн"
+   },
+   "tagline": {
+    "en": "The strongest man in the country can't lift his own weights any more. The circus says the old ring is cursed.",
+    "mn": "Улсын хамгийн хүчтэн эр өөрийнхөө жинг өргөж чадахаа болив. Хуучин манеж хараалтай гэж цирк ярина."
+   },
+   "cover": "cover.jpg",
+   "chapters": 3,
+   "deaths": 4,
+   "endings": 5,
+   "files": [
+    "AcrobatSaraa.jpg",
+    "StrongmanBatbold.jpg",
+    "TigerKeeperDorj.jpg",
+    "TrainerGanbaatar.jpg",
+    "cover.jpg",
+    "scene_backstage.jpg",
+    "scene_cage.jpg",
+    "scene_ring.jpg",
+    "scene_wire.jpg",
+    "story.json"
+   ],
+   "bytes": 800808,
+   "minApp": 1,
+   "releaseAt": "2026-11-23T11:00:00Z"
+  },
+  {
+   "id": "story_076",
+   "number": 76,
+   "title": {
+    "en": "The Lantern Festival Fire",
+    "mn": "Дэнлүүний баярын гал"
+   },
+   "tagline": {
+    "en": "On the night of the lanterns, a trading house full of furs burns to the ground. The quarter blames a fox spirit.",
+    "mn": "Дэнлүүний шөнө үслэгээр дүүрэн худалдааны байшин шатаж сүйрэв. Хорооныхон үнэгэн сүнсийг буруутгана."
+   },
+   "cover": "cover.jpg",
+   "chapters": 3,
+   "deaths": 4,
+   "endings": 5,
+   "files": [
+    "FurBuyerOksana.jpg",
+    "MrGao.jpg",
+    "PartnerMa.jpg",
+    "WatchmanChuluun.jpg",
+    "cover.jpg",
+    "scene_canal.jpg",
+    "scene_house.jpg",
+    "scene_office.jpg",
+    "scene_street.jpg",
+    "story.json"
+   ],
+   "bytes": 1066528,
+   "minApp": 1,
+   "releaseAt": "2026-11-24T11:00:00Z"
+  },
+  {
+   "id": "story_077",
+   "number": 77,
+   "title": {
+    "en": "The Paleontologist's Diary",
+    "mn": "Палеонтологичийн өдрийн тэмдэглэл"
+   },
+   "tagline": {
+    "en": "The diary that marks the greatest fossil find in the Gobi vanishes overnight. The camel men say the desert spirits took it.",
+    "mn": "Говийн хамгийн том олдворын байршлыг тэмдэглэсэн өдрийн тэмдэглэл нэг шөнийн дотор алга болов. Цөлийн эзэд авсан гэж тэмээчид ярина."
+   },
+   "cover": "cover.jpg",
+   "chapters": 3,
+   "deaths": 4,
+   "endings": 5,
+   "files": [
+    "CamelmanTsagaan.jpg",
+    "CookMei.jpg",
+    "DrGrant.jpg",
+    "MrShackley.jpg",
+    "cover.jpg",
+    "scene_camp.jpg",
+    "scene_cliff.jpg",
+    "scene_dunes.jpg",
+    "scene_tent.jpg",
+    "story.json"
+   ],
+   "bytes": 814468,
+   "minApp": 1,
+   "releaseAt": "2026-11-25T11:00:00Z"
   }
  ]
 }
