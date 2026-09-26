@@ -1320,6 +1320,254 @@
    "bytes": 904277,
    "minApp": 1,
    "releaseAt": "2026-10-25T11:00:00Z"
+  },
+  {
+   "id": "story_047",
+   "number": 47,
+   "title": {
+    "en": "The Stolen Election",
+    "mn": "Хулгайлсан сонгууль"
+   },
+   "tagline": {
+    "en": "The ballot box vanished from a locked school overnight. They blame the old commissar's ghost.",
+    "mn": "Саналын хайрцаг шөнө цоожтой сургуулиас алга болов. Хуучин комиссарын сүнсийг буруутгана."
+   },
+   "cover": "cover.jpg",
+   "chapters": 3,
+   "deaths": 4,
+   "endings": 5,
+   "files": [
+    "CandidateJamsran.jpg",
+    "Sodnom.jpg",
+    "TeacherNarantuya.jpg",
+    "WatchmanGanzorig.jpg",
+    "cover.jpg",
+    "scene_cellar.jpg",
+    "scene_classroom.jpg",
+    "scene_corridor.jpg",
+    "scene_yard.jpg",
+    "story.json"
+   ],
+   "bytes": 880729,
+   "minApp": 1,
+   "releaseAt": "2026-10-26T11:00:00Z"
+  },
+  {
+   "id": "story_048",
+   "number": 48,
+   "title": {
+    "en": "The Kidnapped Racehorse",
+    "mn": "Хулгайлагдсан хурдан морь"
+   },
+   "tagline": {
+    "en": "Two weeks before naadam, the champion horse vanishes. Then the ransom note arrives.",
+    "mn": "Наадмаас хоёр долоо хоногийн өмнө аварга морь алга болов. Дараа нь золиосны захидал ирэв."
+   },
+   "cover": "cover.jpg",
+   "chapters": 3,
+   "deaths": 4,
+   "endings": 5,
+   "files": [
+    "Bayarsaikhan.jpg",
+    "JournalistSaruul.jpg",
+    "OwnerAmarjargal.jpg",
+    "RelativeChuluunbat.jpg",
+    "cover.jpg",
+    "scene_bog.jpg",
+    "scene_race.jpg",
+    "scene_stable.jpg",
+    "scene_valley.jpg",
+    "story.json"
+   ],
+   "bytes": 909648,
+   "minApp": 1,
+   "releaseAt": "2026-10-27T11:00:00Z"
+  },
+  {
+   "id": "story_049",
+   "number": 49,
+   "title": {
+    "en": "The Monk Who Could Not Sleep",
+    "mn": "Нойргүй лам"
+   },
+   "tagline": {
+    "en": "Chanting comes from the sealed library every night. The old keeper hasn't slept in nine days.",
+    "mn": "Битүүмжилсэн номын сангаас шөнө бүр уншлага сонсогдоно. Хөгшин манаач есөн хоног унтаагүй."
+   },
+   "cover": "cover.jpg",
+   "chapters": 3,
+   "deaths": 4,
+   "endings": 5,
+   "files": [
+    "Dorjsuren.jpg",
+    "KeeperLuvsan.jpg",
+    "NunTserenkhand.jpg",
+    "Sandag.jpg",
+    "cover.jpg",
+    "scene_cave.jpg",
+    "scene_courtyard.jpg",
+    "scene_library.jpg",
+    "scene_river.jpg",
+    "story.json"
+   ],
+   "bytes": 1049332,
+   "minApp": 1,
+   "releaseAt": "2026-10-28T11:00:00Z"
+  },
+  {
+   "id": "story_050",
+   "number": 50,
+   "title": {
+    "en": "The Golden Buddha of Amarbayasgalant",
+    "mn": "Амарбаясгалантын алтан бурхан"
+   },
+   "tagline": {
+    "en": "The restored Buddha is back on its throne. But the monks say it is not the same Buddha.",
+    "mn": "Сэргээсэн бурхан ширээндээ буцаж залрав. Гэвч лам нар энэ тэр бурхан биш гэнэ."
+   },
+   "cover": "cover.jpg",
+   "chapters": 3,
+   "deaths": 4,
+   "endings": 5,
+   "files": [
+    "Baatarkhuu.jpg",
+    "CustomsOfficerByambaa.jpg",
+    "LamaDashnyam.jpg",
+    "WorkerOtgon.jpg",
+    "cover.jpg",
+    "scene_customs.jpg",
+    "scene_hall.jpg",
+    "scene_valley.jpg",
+    "scene_workshop.jpg",
+    "story.json"
+   ],
+   "bytes": 962600,
+   "minApp": 1,
+   "releaseAt": "2026-10-29T11:00:00Z"
+  },
+  {
+   "id": "story_051",
+   "number": 51,
+   "title": {
+    "en": "The Ger That Moved at Night",
+    "mn": "Шөнө нүүдэг гэр"
+   },
+   "tagline": {
+    "en": "Every morning, the widow's ger stands a few steps from where it stood. Her late husband is restless, they say.",
+    "mn": "Өглөө бүр бэлэвсэн эмэгтэйн гэр байсан газраасаа хэдэн алхмын цаана зогсоно. Нөхөр нь тайван бус байна гэнэ."
+   },
+   "cover": "cover.jpg",
+   "chapters": 3,
+   "deaths": 4,
+   "endings": 5,
+   "files": [
+    "BrigadeLeaderTsend.jpg",
+    "HiredHandMyagmar.jpg",
+    "Ochirkhuyag.jpg",
+    "WidowChimgee.jpg",
+    "cover.jpg",
+    "scene_ger.jpg",
+    "scene_inside.jpg",
+    "scene_pasture.jpg",
+    "scene_well.jpg",
+    "story.json"
+   ],
+   "bytes": 931427,
+   "minApp": 1,
+   "releaseAt": "2026-10-30T11:00:00Z"
+  },
+  {
+   "id": "story_052",
+   "number": 52,
+   "title": {
+    "en": "The Radio Voice",
+    "mn": "Радиогийн дуу хоолой"
+   },
+   "tagline": {
+    "en": "After midnight, a voice breaks into the silent broadcast and reads numbers. Nobody is in the studio.",
+    "mn": "Шөнө дундын дараа чимээгүй нэвтрүүлэгт нэгэн дуу хоолой орж ирээд тоо уншина. Студид хэн ч алга."
+   },
+   "cover": "cover.jpg",
+   "chapters": 3,
+   "deaths": 4,
+   "endings": 5,
+   "files": [
+    "AnnouncerTuya.jpg",
+    "EngineerTseren.jpg",
+    "Khishig.jpg",
+    "OfficerBatbold.jpg",
+    "cover.jpg",
+    "scene_office.jpg",
+    "scene_roof.jpg",
+    "scene_studio.jpg",
+    "scene_transmitter.jpg",
+    "story.json"
+   ],
+   "bytes": 952128,
+   "minApp": 1,
+   "releaseAt": "2026-10-31T11:00:00Z"
+  },
+  {
+   "id": "story_053",
+   "number": 53,
+   "title": {
+    "en": "The Sheep That Came Back",
+    "mn": "Буцаж ирсэн хонь"
+   },
+   "tagline": {
+    "en": "After the blizzard, the lost flock walks home. Every sheep bears a brand no one has ever seen.",
+    "mn": "Цасан шуурганы дараа төөрсөн сүрэг гэртээ алхаж ирэв. Хонь бүр хэн ч харж байгаагүй тамгатай."
+   },
+   "cover": "cover.jpg",
+   "chapters": 3,
+   "deaths": 4,
+   "endings": 5,
+   "files": [
+    "Batjargal.jpg",
+    "CommitteeHeadOyun.jpg",
+    "HerderDamba.jpg",
+    "YoungHerderAnu.jpg",
+    "cover.jpg",
+    "scene_flock.jpg",
+    "scene_office.jpg",
+    "scene_river.jpg",
+    "scene_slope.jpg",
+    "story.json"
+   ],
+   "bytes": 849808,
+   "minApp": 1,
+   "releaseAt": "2026-11-01T11:00:00Z"
+  },
+  {
+   "id": "story_054",
+   "number": 54,
+   "title": {
+    "en": "The Terelj Hotel",
+    "mn": "Тэрэлжийн зочид буудал"
+   },
+   "tagline": {
+    "en": "A bride in white walks the corridor outside room 7. The guests leave. The hotel is dying.",
+    "mn": "7 дугаар өрөөний гадаах коридороор цагаан хувцастай сүйт бүсгүй алхана. Зочид явна. Буудал мөхөж байна."
+   },
+   "cover": "cover.jpg",
+   "chapters": 3,
+   "deaths": 4,
+   "endings": 5,
+   "files": [
+    "Ganbaatar.jpg",
+    "GuestMrPark.jpg",
+    "HousekeeperNyamaa.jpg",
+    "OwnerEnkhtsetseg.jpg",
+    "cover.jpg",
+    "scene_attic.jpg",
+    "scene_lobby.jpg",
+    "scene_rock.jpg",
+    "scene_room.jpg",
+    "story.json"
+   ],
+   "bytes": 867685,
+   "minApp": 1,
+   "releaseAt": "2026-11-02T11:00:00Z"
   }
  ]
 }
