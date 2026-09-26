@@ -2033,6 +2033,130 @@
    "bytes": 903948,
    "minApp": 1,
    "releaseAt": "2026-11-17T11:00:00Z"
+  },
+  {
+   "id": "story_070",
+   "number": 70,
+   "title": {
+    "en": "The Frozen Clock",
+    "mn": "Хөлдсөн цаг"
+   },
+   "tagline": {
+    "en": "The station chief is found face-down in the snow. Inside, the clock has stopped at 3:17.",
+    "mn": "Станцын даргыг цасанд нүүрээрээ хэвтэж байхад нь олов. Дотор цаг 3:17-д зогсжээ."
+   },
+   "cover": "cover.jpg",
+   "chapters": 3,
+   "deaths": 4,
+   "endings": 5,
+   "files": [
+    "ChiefDamdinsuren.jpg",
+    "CookBudkhand.jpg",
+    "PilotSergei.jpg",
+    "Togs.jpg",
+    "cover.jpg",
+    "scene_hut.jpg",
+    "scene_mast.jpg",
+    "scene_ridge.jpg",
+    "scene_station.jpg",
+    "story.json"
+   ],
+   "bytes": 903097,
+   "minApp": 1,
+   "releaseAt": "2026-11-18T11:00:00Z"
+  },
+  {
+   "id": "story_071",
+   "number": 71,
+   "title": {
+    "en": "The Mongol Script",
+    "mn": "Монгол бичиг"
+   },
+   "tagline": {
+    "en": "A lost chronicle, found in a cave where spirits guarded it for five hundred years. Or so the professor says.",
+    "mn": "Таван зуун жил сүнснүүд хамгаалсан агуйгаас олдсон алдагдсан сурвалж бичиг. Ядаж профессор тэгж хэлдэг."
+   },
+   "cover": "cover.jpg",
+   "chapters": 3,
+   "deaths": 4,
+   "endings": 5,
+   "files": [
+    "AssistantMaralmaa.jpg",
+    "ChemistBatbayar.jpg",
+    "LibrarianDolgorsuren.jpg",
+    "ProfessorLuvsanjamts.jpg",
+    "cover.jpg",
+    "scene_lab.jpg",
+    "scene_library.jpg",
+    "scene_office.jpg",
+    "scene_street.jpg",
+    "story.json"
+   ],
+   "bytes": 883459,
+   "minApp": 1,
+   "releaseAt": "2026-11-19T11:00:00Z"
+  },
+  {
+   "id": "story_072",
+   "number": 72,
+   "title": {
+    "en": "The Stolen Snow Leopard Cub",
+    "mn": "Хулгайлсан ирвэсний бамбарууш"
+   },
+   "tagline": {
+    "en": "One of three snow leopard cubs vanishes from a den watched by hidden cameras. The herders say the mountain took it.",
+    "mn": "Нууц камераар ажигладаг үүрнээс гурван ирвэсний бамбаруушийн нэг алга болов. Уул авсан гэж малчид ярина."
+   },
+   "cover": "cover.jpg",
+   "chapters": 3,
+   "deaths": 4,
+   "endings": 5,
+   "files": [
+    "Amarsanaa.jpg",
+    "BuyerMrLiang.jpg",
+    "RangerBatzorig.jpg",
+    "ResearcherAnna.jpg",
+    "cover.jpg",
+    "scene_camp.jpg",
+    "scene_canyon.jpg",
+    "scene_den.jpg",
+    "scene_road.jpg",
+    "story.json"
+   ],
+   "bytes": 885118,
+   "minApp": 1,
+   "releaseAt": "2026-11-20T11:00:00Z"
+  },
+  {
+   "id": "story_073",
+   "number": 73,
+   "title": {
+    "en": "The Painter's Last Portrait",
+    "mn": "Зураачийн сүүлчийн хөрөг"
+   },
+   "tagline": {
+    "en": "The old master's final painting vanishes from a locked studio. His widow says it walked away on its own.",
+    "mn": "Хөгшин мастерын сүүлчийн уран зураг цоожтой урлангаас алга болов. Өөрөө алхаж явсан гэж бэлэвсэн эхнэр нь хэлнэ."
+   },
+   "cover": "cover.jpg",
+   "chapters": 3,
+   "deaths": 4,
+   "endings": 5,
+   "files": [
+    "FramerSanj.jpg",
+    "GalleryDirectorOyu.jpg",
+    "Tsogtbaatar.jpg",
+    "WidowNamsrai.jpg",
+    "cover.jpg",
+    "scene_gallery.jpg",
+    "scene_river.jpg",
+    "scene_storage.jpg",
+    "scene_studio.jpg",
+    "story.json"
+   ],
+   "bytes": 902491,
+   "minApp": 1,
+   "releaseAt": "2026-11-21T11:00:00Z"
   }
  ]
 }
