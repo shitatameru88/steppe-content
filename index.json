@@ -1568,6 +1568,254 @@
    "bytes": 867685,
    "minApp": 1,
    "releaseAt": "2026-11-02T11:00:00Z"
+  },
+  {
+   "id": "story_055",
+   "number": 55,
+   "title": {
+    "en": "The Last Shot",
+    "mn": "Сүүлчийн сум"
+   },
+   "tagline": {
+    "en": "Snow leopards are vanishing from the Altai. The hunters say the white ghost of the mountain takes them.",
+    "mn": "Алтайгаас ирвэс алга болж байна. Уулын цагаан сүнс авдаг гэж анчид ярина."
+   },
+   "cover": "cover.jpg",
+   "chapters": 3,
+   "deaths": 4,
+   "endings": 5,
+   "files": [
+    "ChairmanDugersuren.jpg",
+    "Ganzorig.jpg",
+    "OldHunterBaljinnyam.jpg",
+    "TraderIvanov.jpg",
+    "cover.jpg",
+    "scene_cache.jpg",
+    "scene_camp.jpg",
+    "scene_mountain.jpg",
+    "scene_road.jpg",
+    "story.json"
+   ],
+   "bytes": 907676,
+   "minApp": 1,
+   "releaseAt": "2026-11-03T11:00:00Z"
+  },
+  {
+   "id": "story_056",
+   "number": 56,
+   "title": {
+    "en": "The Ghost Bus",
+    "mn": "Сүнсэн автобус"
+   },
+   "tagline": {
+    "en": "At two in the morning, an empty old bus drives ahead of yours on route 12. On those nights, the depot safe is robbed.",
+    "mn": "Шөнийн хоёр цагт 12 дугаар чиглэлд хоосон хуучин автобус танай автобусны өмнө явдаг. Тэр шөнүүдэд депогийн сейфийг дээрэмддэг."
+   },
+   "cover": "cover.jpg",
+   "chapters": 3,
+   "deaths": 4,
+   "endings": 5,
+   "files": [
+    "DispatcherOyunchimeg.jpg",
+    "Luvsantseren.jpg",
+    "PartnerTuvshin.jpg",
+    "PassengerOldDorj.jpg",
+    "cover.jpg",
+    "scene_bridge.jpg",
+    "scene_depot.jpg",
+    "scene_office.jpg",
+    "scene_street.jpg",
+    "story.json"
+   ],
+   "bytes": 879793,
+   "minApp": 1,
+   "releaseAt": "2026-11-04T11:00:00Z"
+  },
+  {
+   "id": "story_057",
+   "number": 57,
+   "title": {
+    "en": "The Stolen Sutra",
+    "mn": "Хулгайлагдсан судар"
+   },
+   "tagline": {
+    "en": "A page of golden script, three centuries old, is back in its box. But the gold doesn't shine the same.",
+    "mn": "Гурван зуун жилийн настай алтан үсэгт хуудас хайрцагтаа буцаж иржээ. Гэвч алт нь адилхан гялалзахгүй байна."
+   },
+   "cover": "cover.jpg",
+   "chapters": 3,
+   "deaths": 4,
+   "endings": 5,
+   "files": [
+    "AirportOfficerMunkh.jpg",
+    "Erdenebileg.jpg",
+    "LamaChoijamts.jpg",
+    "ProfessorHughes.jpg",
+    "cover.jpg",
+    "scene_airport.jpg",
+    "scene_hotel.jpg",
+    "scene_library.jpg",
+    "scene_temple.jpg",
+    "story.json"
+   ],
+   "bytes": 958356,
+   "minApp": 1,
+   "releaseAt": "2026-11-05T11:00:00Z"
+  },
+  {
+   "id": "story_058",
+   "number": 58,
+   "title": {
+    "en": "The Mask of the Tsam Dance",
+    "mn": "Цамын баг"
+   },
+   "tagline": {
+    "en": "The Lord of Death's mask comes out for the first dance in fifty years, and the dancer beneath it falls.",
+    "mn": "Эрлэг номын хааны баг тавин жилд анх удаа бүжигт гарч, доторх бүжигчин унав."
+   },
+   "cover": "cover.jpg",
+   "chapters": 3,
+   "deaths": 4,
+   "endings": 5,
+   "files": [
+    "DancerTemuujin.jpg",
+    "Delger.jpg",
+    "OldMaskmakerPurevdorj.jpg",
+    "SponsorGankhuyag.jpg",
+    "cover.jpg",
+    "scene_courtyard.jpg",
+    "scene_gate.jpg",
+    "scene_storeroom.jpg",
+    "scene_workshop.jpg",
+    "story.json"
+   ],
+   "bytes": 967328,
+   "minApp": 1,
+   "releaseAt": "2026-11-06T11:00:00Z"
+  },
+  {
+   "id": "story_059",
+   "number": 59,
+   "title": {
+    "en": "The Midnight Ferry",
+    "mn": "Шөнийн гатлага"
+   },
+   "tagline": {
+    "en": "Crates vanish from the night ferry in the middle of the Selenge. The ferryman says the water spirit takes its share.",
+    "mn": "Шөнийн гатлагаас Сэлэнгийн голд хайрцаг алга болдог. Усны эзэн хувиа авдаг гэж гатлагач хэлнэ."
+   },
+   "cover": "cover.jpg",
+   "chapters": 3,
+   "deaths": 4,
+   "endings": 5,
+   "files": [
+    "Batsaikhan.jpg",
+    "CousinMonkhoo.jpg",
+    "FishermanGerelt.jpg",
+    "TraderOyunaa.jpg",
+    "cover.jpg",
+    "scene_bank.jpg",
+    "scene_ferry.jpg",
+    "scene_hidden.jpg",
+    "scene_whirlpool.jpg",
+    "story.json"
+   ],
+   "bytes": 873043,
+   "minApp": 1,
+   "releaseAt": "2026-11-07T11:00:00Z"
+  },
+  {
+   "id": "story_060",
+   "number": 60,
+   "title": {
+    "en": "The Nine White Banners",
+    "mn": "Есөн хөлт цагаан туг"
+   },
+   "tagline": {
+    "en": "Three days before the great parade, the silver crown of a white banner vanishes from a guarded room.",
+    "mn": "Их жагсаалаас гурван өдрийн өмнө цагаан тугны мөнгөн оройн чимэг хамгаалалттай өрөөнөөс алга болов."
+   },
+   "cover": "cover.jpg",
+   "chapters": 3,
+   "deaths": 4,
+   "endings": 5,
+   "files": [
+    "Batkhuyag.jpg",
+    "CommanderGantomor.jpg",
+    "LoanSharkSukhbat.jpg",
+    "PawnbrokerZolzaya.jpg",
+    "cover.jpg",
+    "scene_barracks.jpg",
+    "scene_pawn.jpg",
+    "scene_square.jpg",
+    "scene_stable.jpg",
+    "story.json"
+   ],
+   "bytes": 869895,
+   "minApp": 1,
+   "releaseAt": "2026-11-08T11:00:00Z"
+  },
+  {
+   "id": "story_061",
+   "number": 61,
+   "title": {
+    "en": "The Well of Wishes",
+    "mn": "Хүслийн худаг"
+   },
+   "tagline": {
+    "en": "The village's only well turns bitter overnight. The elders say the water spirit is angry at the new road.",
+    "mn": "Тосгоны ганц худаг нэг шөнийн дотор гашуун болов. Шинэ замд лус уурласан гэж ахмадууд ярина."
+   },
+   "cover": "cover.jpg",
+   "chapters": 3,
+   "deaths": 4,
+   "endings": 5,
+   "files": [
+    "ElderKhandsuren.jpg",
+    "HusbandTsogoo.jpg",
+    "Norjmaa.jpg",
+    "TeacherGanbat.jpg",
+    "cover.jpg",
+    "scene_pit.jpg",
+    "scene_road.jpg",
+    "scene_truck.jpg",
+    "scene_well.jpg",
+    "story.json"
+   ],
+   "bytes": 914481,
+   "minApp": 1,
+   "releaseAt": "2026-11-09T11:00:00Z"
+  },
+  {
+   "id": "story_062",
+   "number": 62,
+   "title": {
+    "en": "The Twins of Tsagaan Sar",
+    "mn": "Цагаан сарын ихрүүд"
+   },
+   "tagline": {
+    "en": "Grandmother's silver snuff bottle goes round the ger at New Year. When it comes back, it's lighter.",
+    "mn": "Цагаан сараар эмээгийн мөнгөн хөөрөг гэрээр тойрон явав. Буцаж ирэхэд хөнгөн болжээ."
+   },
+   "cover": "cover.jpg",
+   "chapters": 3,
+   "deaths": 4,
+   "endings": 5,
+   "files": [
+    "AuntOyunbat.jpg",
+    "CousinTemka.jpg",
+    "GrandmotherDulmaa.jpg",
+    "UncleZorigt.jpg",
+    "cover.jpg",
+    "scene_camp.jpg",
+    "scene_ger.jpg",
+    "scene_river.jpg",
+    "scene_town.jpg",
+    "story.json"
+   ],
+   "bytes": 1062911,
+   "minApp": 1,
+   "releaseAt": "2026-11-10T11:00:00Z"
   }
  ]
 }
