@@ -1816,6 +1816,223 @@
    "bytes": 1062911,
    "minApp": 1,
    "releaseAt": "2026-11-10T11:00:00Z"
+  },
+  {
+   "id": "story_063",
+   "number": 63,
+   "title": {
+    "en": "The Bear of Khentii",
+    "mn": "Хэнтийн баавгай"
+   },
+   "tagline": {
+    "en": "A demon bear wrecks the logging camp every night. Bears sleep in winter. This one doesn't.",
+    "mn": "Чөтгөр баавгай шөнө бүр модны бааз сүйтгэнэ. Баавгай өвөл унтдаг. Энэ нь унтдаггүй."
+   },
+   "cover": "cover.jpg",
+   "chapters": 3,
+   "deaths": 4,
+   "endings": 5,
+   "files": [
+    "ForemanGonchig.jpg",
+    "MedicEnkhtuya.jpg",
+    "Sharav.jpg",
+    "TrapperDashdondog.jpg",
+    "cover.jpg",
+    "scene_camp.jpg",
+    "scene_den.jpg",
+    "scene_forest.jpg",
+    "scene_river.jpg",
+    "story.json"
+   ],
+   "bytes": 982507,
+   "minApp": 1,
+   "releaseAt": "2026-11-11T11:00:00Z"
+  },
+  {
+   "id": "story_064",
+   "number": 64,
+   "title": {
+    "en": "The Last Letter",
+    "mn": "Сүүлчийн захиа"
+   },
+   "tagline": {
+    "en": "A man who died ten years ago still answers his daughter's letters, in his own handwriting.",
+    "mn": "Арван жилийн өмнө нас барсан хүн охиныхоо захидалд өөрийнхөө гараар хариу бичсээр байна."
+   },
+   "cover": "cover.jpg",
+   "chapters": 3,
+   "deaths": 4,
+   "endings": 5,
+   "files": [
+    "DaughterTsetsgee.jpg",
+    "PensionClerkOyuun.jpg",
+    "PostmasterLkhagva.jpg",
+    "Sengee.jpg",
+    "cover.jpg",
+    "scene_archive.jpg",
+    "scene_counter.jpg",
+    "scene_sorting.jpg",
+    "scene_street.jpg",
+    "story.json"
+   ],
+   "bytes": 972450,
+   "minApp": 1,
+   "releaseAt": "2026-11-12T11:00:00Z"
+  },
+  {
+   "id": "story_065",
+   "number": 65,
+   "title": {
+    "en": "The Seven Brothers",
+    "mn": "Долоон бурхан"
+   },
+   "tagline": {
+    "en": "On the night of falling stars, the clan's star map is stolen. It shows the way to their founder's grave.",
+    "mn": "Од харвасан шөнө овгийн одны зураг хулгайлагдав. Энэ нь өвөг дээдсийнх нь булш руу хөтөлдөг."
+   },
+   "cover": "cover.jpg",
+   "chapters": 3,
+   "deaths": 4,
+   "endings": 5,
+   "files": [
+    "CampHeadDugar.jpg",
+    "GrandmotherGerel.jpg",
+    "HerderBold.jpg",
+    "Tseden.jpg",
+    "cover.jpg",
+    "scene_camp.jpg",
+    "scene_hill.jpg",
+    "scene_scroll.jpg",
+    "scene_stream.jpg",
+    "story.json"
+   ],
+   "bytes": 822146,
+   "minApp": 1,
+   "releaseAt": "2026-11-13T11:00:00Z"
+  },
+  {
+   "id": "story_066",
+   "number": 66,
+   "title": {
+    "en": "The Silent Monastery",
+    "mn": "Чимээгүй хийд"
+   },
+   "tagline": {
+    "en": "A visiting monk vanishes in the night with his relic box. The monks say he walked into the mountain.",
+    "mn": "Зочин лам шүтээний хайрцагтайгаа шөнө алга болов. Уул руу алхаж орсон гэж лам нар ярина."
+   },
+   "cover": "cover.jpg",
+   "chapters": 3,
+   "deaths": 4,
+   "endings": 5,
+   "files": [
+    "AbbotDorjderem.jpg",
+    "HermitGombosuren.jpg",
+    "MonkLobsang.jpg",
+    "Tsolmon.jpg",
+    "cover.jpg",
+    "scene_cave.jpg",
+    "scene_cell.jpg",
+    "scene_monastery.jpg",
+    "scene_slope.jpg",
+    "story.json"
+   ],
+   "bytes": 818641,
+   "minApp": 1,
+   "releaseAt": "2026-11-14T11:00:00Z"
+  },
+  {
+   "id": "story_067",
+   "number": 67,
+   "title": {
+    "en": "The Double-Hump Camel",
+    "mn": "Хоёр бөхт тэмээ"
+   },
+   "tagline": {
+    "en": "The morning of the festival, the champion white camel's proud humps hang limp. The herders say she's cursed.",
+    "mn": "Наадмын өглөө аварга цагаан ингэний бардам бөх нь унжжээ. Хараал хүрсэн гэж малчид ярина."
+   },
+   "cover": "cover.jpg",
+   "chapters": 3,
+   "deaths": 4,
+   "endings": 5,
+   "files": [
+    "HerbalistDagdan.jpg",
+    "JudgeBaasan.jpg",
+    "Khurelsukh.jpg",
+    "OwnerOyunchimeg.jpg",
+    "cover.jpg",
+    "scene_festival.jpg",
+    "scene_pen.jpg",
+    "scene_race.jpg",
+    "scene_shop.jpg",
+    "story.json"
+   ],
+   "bytes": 827343,
+   "minApp": 1,
+   "releaseAt": "2026-11-15T11:00:00Z"
+  },
+  {
+   "id": "story_068",
+   "number": 68,
+   "title": {
+    "en": "The Fortune Teller",
+    "mn": "Мэргэч"
+   },
+   "tagline": {
+    "en": "Madame Nomin foresees fires and floods for the market traders. Then they happen. Unless you pay.",
+    "mn": "Мэргэч Номин захын худалдаачдад гал, үерийг зөгнөдөг. Тэгээд тэр нь болдог. Мөнгө төлөөгүй бол."
+   },
+   "cover": "cover.jpg",
+   "chapters": 3,
+   "deaths": 4,
+   "endings": 5,
+   "files": [
+    "AssistantBolor.jpg",
+    "Ganzorig.jpg",
+    "MadameNomin.jpg",
+    "ShopkeeperEnkhbat.jpg",
+    "cover.jpg",
+    "scene_kiosk.jpg",
+    "scene_market.jpg",
+    "scene_tent.jpg",
+    "scene_van.jpg",
+    "story.json"
+   ],
+   "bytes": 948917,
+   "minApp": 1,
+   "releaseAt": "2026-11-16T11:00:00Z"
+  },
+  {
+   "id": "story_069",
+   "number": 69,
+   "title": {
+    "en": "The Cursed Saddle",
+    "mn": "Хараалтай эмээл"
+   },
+   "tagline": {
+    "en": "Every man who rides the silver saddle is thrown. The merchant keeps selling it, and buying it back.",
+    "mn": "Мөнгөн эмээлийг унасан эр бүр унадаг. Худалдаачин түүнийг зарсаар, буцааж авсаар."
+   },
+   "cover": "cover.jpg",
+   "chapters": 3,
+   "deaths": 4,
+   "endings": 5,
+   "files": [
+    "BuyerPrinceTsend.jpg",
+    "MasterSaddlerNyam.jpg",
+    "MerchantBatmonkh.jpg",
+    "StablemanOlzii.jpg",
+    "cover.jpg",
+    "scene_river.jpg",
+    "scene_shop.jpg",
+    "scene_stable.jpg",
+    "scene_street.jpg",
+    "story.json"
+   ],
+   "bytes": 903948,
+   "minApp": 1,
+   "releaseAt": "2026-11-17T11:00:00Z"
   }
  ]
 }
